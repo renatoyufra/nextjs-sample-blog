@@ -32,6 +32,9 @@ export default function Home({ allPostsData }) {
               </small>
             </li>
           ))}
+          <Link href="/postdo">
+            <a>gato</a>
+          </Link>
         </ul>
       </section>
     </Layout>
