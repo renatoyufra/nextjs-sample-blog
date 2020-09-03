@@ -32,9 +32,9 @@ export default function Home({ allPostsData }) {
               </small>
             </li>
           ))}
-          <Link href="/postdo">
+          {/* <Link href="/postdo">
             <a>gato</a>
-          </Link>
+          </Link> */}
         </ul>
       </section>
     </Layout>
