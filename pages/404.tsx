@@ -13,7 +13,7 @@ const Custom404 = () => {
                 <Link href="/">
                     <a>
                         Back to home
-            </a>
+                    </a>
                 </Link>
             </div>
         </>
